@@ -380,4 +380,4 @@ with tabs[5]:
 
 # ========== FOOTER ==========
 st.markdown("---")
-st.markdown("Made with :sparkling_heart: by Finance AI | Powered by Streamlit, yfinance, NewsAPI, Plotly") 
+st.markdown("Made by :sparkling_heart: Khushi Nandha :sparkling_heart: by Finance AI | Powered by Streamlit, yfinance, NewsAPI, Plotly") 
